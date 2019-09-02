@@ -319,7 +319,6 @@ nav a:hover::before {
     color: #fff;
     background-color: transparent;
 }
-
 .first-content {
     padding: 100px;
     text-align: left;
@@ -394,7 +393,7 @@ nav a:hover::before {
     padding: 60px;
     text-align: left;
 }
-.second-content{
+.second-content {
     font-size: 13px;
     padding: 6px 0;
 }
@@ -496,7 +495,9 @@ nav a:hover::before {
     color: #fff;
     text-decoration: none;
     transition: all 0.5s;
-    margin-bottom: 20px;
+}
+.third-content .fb-btn {
+    margin-right: 15px
 }
 .third-content .col-md-6 {
     margin: 0px;
@@ -605,10 +606,10 @@ nav a:hover::before {
     padding: 60px;
     text-align: left;
 }
-.fifth-content .left-content .contact{
-	font-size: 25px;
-	color: #fff;
-	margin-bottom: 20px;
+.fifth-content .left-content .contact {
+    font-size: 25px;
+    color: #fff;
+    margin-bottom: 20px;
 }
 .footer .content {
     left: 30%;
@@ -716,14 +717,17 @@ nav ul li i {
     margin-right: 0px;
     margin-bottom: 15px;
 }
+.second-content .left-content {
+    padding: 30px;
+    text-align: left;
+}
 .third-content .main-btn {
     display: inline-block;
     margin-right: 0px;
     margin-bottom: 15px;
 }
-.second-content .left-content {
-    padding: 30px;
-    text-align: left;
+.third-content .fb-btn {
+    margin-bottom: 15px;
 }
 .fourth-content .item .hover-effect h2 {
     font-size: 15px;
