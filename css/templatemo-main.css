@@ -691,7 +691,7 @@ nav ul {
 
 @media (max-width: 749px) {
 nav {
-    width: 10vh;
+    width: 15vh;
 }
 nav .logo {
     display: none;
