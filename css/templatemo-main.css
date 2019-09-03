@@ -514,6 +514,10 @@ nav a:hover::before {
     padding-right: 0px;
     padding-left: 0px;
 }
+.fourth-content em {
+    font-style: normal;
+    font-weight: 600;
+}
 .fourth-content .item {
     margin: 10px;
 }
